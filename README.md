@@ -2,8 +2,7 @@
 
 - Atualmente trabalhando como suporte técnico;
 - Estudando HTML, CSS, JavaScript;
-- Cursando Análise e Desenvolvimento de Sistemas;
-- Futura desenvolvedora front-end.
+- Cursando Análise e Desenvolvimento de Sistemas.
 
  <div>
   <a href="https://github.com/eulaapp">
