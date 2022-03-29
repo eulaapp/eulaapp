@@ -1,7 +1,6 @@
 ### Hi there 👋.
 
-- Atualmente trabalhando como suporte técnico;
-- Estudando Python;
+- Atualmente trabalhando como desenvolvedora iOS júnior;
 - Cursando Análise e Desenvolvimento de Sistemas.
 
 
